@@ -1,5 +1,9 @@
-install dependencies with "pip install -r requirements.txt"
+Install dependencies with "pip install -r requirements.txt"
 
-run app with "python manage.py runserver"
+Apply migrations: "python manage.py makemigrations" 
+                  "python manage.py makemigrations dataincubator"
+                  "python manage.py migrate"
 
-run test with: "python manage.py test"
+Run app with "python manage.py runserver"
+
+Run test with: "python manage.py test"

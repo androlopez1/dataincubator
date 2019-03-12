@@ -1,4 +1,4 @@
-install dependencies with "pip install requirements.txt"
+install dependencies with "pip install -r requirements.txt"
 
 run app with "python manage.py runserver"
 
